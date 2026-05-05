@@ -1,4 +1,4 @@
-MENGHITUNG TINGGI BADAN MAHASIWA PSTI
+TUGAS JUDUL 2: MEMBUAT PROGRAM MENGURUTKAN TINGGI BADAN MAHASIWA PSTI
 
 Program ini berfungsi untuk mengurutkan data tinggi badan mahasiswa supaya lebih teratur dan mudah dibaca. Cara kerjanya, pengguna diminta memasukkan jumlah mahasiswa dan tinggi badan masing-masing. Data yang dimasukkan pertama kali ditampilkan dalam kondisi acak, lalu diproses menggunakan algoritma Bubble Sort. Setelah proses pengurutan selesai, hasilnya ditampilkan kembali sehingga urutan tinggi badan mahasiswa terlihat dari yang paling pendek sampai yang paling tinggi. Dengan begitu, program ini membantu menyusun data agar lebih rapi dan bisa dipakai untuk analisis sederhana.  
 
