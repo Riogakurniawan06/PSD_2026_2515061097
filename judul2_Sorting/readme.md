@@ -24,6 +24,7 @@ Bagian ini berfungsi untuk menampilkan data sebelum dan sesudah diurutkan. Perta
 <img width="224" height="56" alt="Screenshot 2026-05-05 173814" src="https://github.com/user-attachments/assets/1903e230-2565-4f17-bd74-f1c75d6cc344" />
 Bagian ini berfungsi untuk menjalankan fungsi main() ketika file dijalankan langsung. Dengan cara ini, program akan otomatis meminta input dan menampilkan hasil sesuai alur yang sudah dibuat.
 
+<img width="483" height="200" alt="Screenshot 2026-05-05 184355" src="https://github.com/user-attachments/assets/ce11fde4-5e4c-4634-ad52-bc996e38afa3" />
+Ketika program dijalankan, pertama akan muncul permintaan untuk memasukkan jumlah mahasiswa. Setelah itu, pengguna diminta memasukkan tinggi badan satu per satu. Program akan menampilkan data tinggi badan sesuai urutan input (belum diurutkan). Kemudian, setelah proses Bubble Sort dijalankan, hasilnya ditampilkan kembali dalam kondisi sudah terurut dari yang paling pendek sampai yang paling tinggi.
 
-
-program ini berfungsi untuk mengurutkan tinggi badan mahasiswa menggunakan algoritma Bubble Sort dengan membandingkan dan menukar elemen yang bersebelahan terus menerus sampai data terurut.
+LINK VIDIO YOUTUBE : https://youtu.be/wHizNuaftq4
