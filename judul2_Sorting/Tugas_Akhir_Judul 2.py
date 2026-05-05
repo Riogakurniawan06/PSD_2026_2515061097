@@ -1,5 +1,3 @@
-# Percobaan II-1: Bubble Sort (Implementasi Tinggi Badan Mahasiswa PSTI)
-
 def tukar(arr, i, j):
     temp = arr[i]
     arr[i] = arr[j]
